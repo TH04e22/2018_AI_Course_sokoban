@@ -1,0 +1,8 @@
+road.png
+agent.png
+box.png
+wall.png
+black.png
+target.png
+box_on_target.png
+man_on_target.png
